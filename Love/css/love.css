@@ -1,0 +1,158 @@
+body{
+   background-color: rgb(248, 139, 119);
+}
+.l-box {
+
+   width: 500px;
+   height: 500px;
+   
+   position: relative;
+   margin: 0 auto;
+   font-size: 10px;
+   font-weight: bold;
+   color:rgb(12, 33, 151);
+   animation-name: love;
+   animation-duration:2s ;
+
+ 
+}
+@keyframes love{
+   0%{
+      top: -999px;
+   }
+   100%{top: 0px;}
+}
+.i{
+   position: absolute;
+   top: -50px;
+   left: 150px;
+   font-size: 110px;
+   font-family: monospace;
+   font-style: italic;
+   color: #054085;
+   animation-name: I;
+   animation-duration:2s ;
+}
+@keyframes I{
+   0%{
+      left: -999px;
+   }
+   100%{left: 150px;}
+}
+.u{
+   position: absolute;
+   top: -50px;
+   left: 380px;
+   font-size: 110px;
+   font-family: monospace;
+   font-style: italic;
+   animation-name: U;
+   animation-duration:3s ;
+}
+@keyframes U{
+   0%{
+      left: -9999px;
+   }
+   100%{right: 380px;}
+}
+.cl1{
+   position: absolute;
+   top: 50px;
+   left: 300px;
+}
+.cl2{
+   position: absolute;
+   top: 45px;
+   left: 290px;
+}
+.cl3{
+   position: absolute;
+   top: 38px;
+   left: 280px;
+}
+.cl4{
+   position: absolute;
+   top: 40px;
+   left: 268px;
+}
+.cl5{
+   position: absolute;
+   top: 50px;
+   left: 255px;
+}
+.cl6{
+   position: absolute;
+   top: 65px;
+   left: 255px;
+}
+
+.cl7{
+   position: absolute;
+   top: 80px;
+   left: 260px;
+}
+.cl8{
+   position: absolute;
+   top: 90px;
+   left: 270px;
+}
+.cl9{
+   position: absolute;
+   top: 100px;
+   left: 280px;
+}
+.cl10{
+   position: absolute;
+   top: 105px;
+   left: 295px;
+}
+.cl11{
+   position: absolute;
+   top: 45px;
+   left: 312px;
+}
+.cl12{
+   position: absolute;
+   top: 38px;
+   left: 322px;
+}
+.cl13{
+   position: absolute;
+   top: 40px;
+   left: 334px;
+}
+.cl14{
+   position: absolute;
+   top: 48px;
+   left: 345px;
+}
+.cl15{
+   position: absolute;
+   top: 65px;
+   left: 348px;
+}
+.cl16{
+   position: absolute;
+   top: 80px;
+   left: 343px;
+}
+.cl17{
+   position: absolute;
+   top: 90px;
+   left: 338px;
+}
+.cl18{
+   position: absolute;
+   top: 100px;
+   left: 330px;
+}
+.cl19{
+   position: absolute;
+   top: 105px;
+   left: 319px;
+}
+.cl20{
+   position: absolute;
+   top: 112px;
+   left: 308px;
+}
